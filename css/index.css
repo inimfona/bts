@@ -1,0 +1,70 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+.fr{
+    display: flex;
+    height: 1000px;
+    background: linear-gradient(rgba(0, 11, 41, 0.9),rgba(0, 11, 41, 0.9)),url("./../image/img1.webp");
+    background-size: cover;
+    
+}
+#tg{
+    display: flex;
+    height: 590px;
+    background: linear-gradient(rgba(5, 19, 151, 0.9),rgba(11, 39, 129, 0.9)),url("image/img2.webp");
+    
+}
+#fc{
+    display: flex;   
+    height: 355px;
+    background: linear-gradient(rgba(252, 156, 66, 0.9),rgba(196, 95, 0, 0.9)),url("./../image/");
+}
+.xx{
+    position: relative;
+    display: flex;
+    margin-bottom: -280px;
+    padding: 30px;
+}
+img{
+    max-width: auto;
+    max-height: 100%;
+}
+.fn{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.io{
+    position: absolute;
+    bottom: 180px;
+    left: 120px;
+    color: white;
+}
+.fa{
+    border-radius: 5px;
+    border: none;
+    background-color: white;
+    height: 45px;
+    width: 130px;
+    text-decoration: none;
+
+}
+.te{
+    text-decoration: none;
+    color: rgba(5, 6, 24, 0.9);
+}
+.rt{
+    position: absolute;
+    bottom: 400px;
+    right: 150px;
+    color: white;
+
+}
+.ry{
+    position: absolute;
+    bottom: 100px;
+    right: 270px;
+    color: white;
+}
